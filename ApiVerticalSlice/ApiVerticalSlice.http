@@ -1,0 +1,6 @@
+@ApiVerticalSlice_HostAddress = http://localhost:5246
+
+GET {{ApiVerticalSlice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
